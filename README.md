@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammad-Tesla
+- 👋 Hi, I’m @Mohammad-Palla
 - 👀 I’m interested in Web Dev, Software Dev in genral
 - 🌱 I’m currently learning Java
 
